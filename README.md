@@ -2,7 +2,9 @@
 
 #### Bruno Queiroz
 
-**I'm a software developer based in Petrópolis, Rio de Janeiro, Brazil. I have more than 10 years of experience in fullstack development for the most varied companies and projects. I am passionate about Linux and Open-Source, and I like to always be learning new technologies.
+I'm a software developer based in Petrópolis, Rio de Janeiro, Brazil. I have more than 10 years of experience in fullstack development for the most varied companies and projects. I am passionate about Linux and Open-Source, and I like to always be learning new technologies.
+
+- 🌱 I’m currently learning Go and Typescript.
 
 <!--
 **BrunoMoreno/brunomoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
