@@ -8,7 +8,7 @@ I've been working with tecnologies like: Laravel, Django, React, React Native, V
 
 - 🌱 I’m currently learning Go and Typescript.
 
-For more information about my skills see my [website](https://brunomoreno.site/).
+For more information about my skills see my [website](https://brunow.me).
 
 <!--
 **BrunoMoreno/brunomoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
