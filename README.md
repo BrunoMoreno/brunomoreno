@@ -2,7 +2,7 @@
 
 #### Hi there 🚀
 
-I'm a software developer based in Petrópolis, Rio de Janeiro, Brazil. I have more than 10 years of experience in fullstack development for the most varied companies and projects. I am passionate about Linux and Open-Source, and I like to always be learning new technologies.
+I'm a software developer based in Petrópolis, Rio de Janeiro, Brazil. I have more than 13 years of experience in fullstack development for the most varied companies and projects. I am passionate about Linux and Open-Source, and I like to always be learning new technologies.
 
 I've been working with tecnologies like: Laravel, Django, React, React Native, Vuejs, Node, Express, Hasura, Scrapy and Ruby on Rails.
 
