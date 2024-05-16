@@ -1,26 +1,14 @@
 ### Bruno Queiroz
 
 #### Hi there 🚀
+I'm a software developer based in Petrópolis, Rio de Janeiro, Brazil. I have more than 14 years of experience in fullstack development for the most varied companies and projects like McDonalds, TIM, Michelin, MRV, Sephora, Plugg.to, Estoca, Facily, Personare, Acrux Capital and most others.
 
-I'm a software developer based in Petrópolis, Rio de Janeiro, Brazil. I have more than 13 years of experience in fullstack development for the most varied companies and projects. I am passionate about Linux and Open-Source, and I like to always be learning new technologies.
+I've been working with a lot of technologies like Ruby, Python, PHP, Node.js, React and Vue.js.
 
-I've been working with tecnologies like: Python, Ruby and Javascript.
+I'm also a tech lead and consultant for some companies and I'm always looking for new challenges and opportunities.
+
 
 - 🌱 I’m currently learning Go t.
 
 For more information about my skills see my [website](https://brunow.me).
 
-<!--
-**BrunoMoreno/brunomoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
