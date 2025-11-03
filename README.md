@@ -8,6 +8,6 @@ I've been working with a lot of technologies like Ruby, Python, PHP, Node.js, Go
 I'm also a tech lead and consultant for some companies and I'm always looking for new challenges and opportunities.
 
 
-For more information about my skills see my [website](https://brunow.me).
+For more information about my skills see my [website](https://brunow.dev).
 
 
