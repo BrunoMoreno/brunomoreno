@@ -10,4 +10,4 @@ I'm also a tech lead and consultant for some companies and I'm always looking fo
 
 For more information about my skills see my [website](https://brunow.me).
 
-https://githubstats.com.br/api/stats?username=BrunoMoreno&theme=dark&showBorder=true&language=pt&type=stats
+![GitHub Stats](https://githubstats.com.br/api/stats?username=BrunoMoreno&theme=dark&showBorder=true&language=pt&type=stats)
