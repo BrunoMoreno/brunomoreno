@@ -1,33 +1,15 @@
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  BRUNO QUEIROZ                                           │
-│  Senior Software Engineer · Tech Lead · Builder          │
-│                                                          │
-│  Building software, teams and things worth shipping.    │
-│                                                          │
-│  brunow.dev  ·  LinkedIn  ·  GitHub                     │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  ENGINEERING                                            │
-│                                                          │
-│  Backend             ████████████████████  100%         │
-│  Architecture        ███████████████████░   95%         │
-│  Leadership          ███████████████████░   95%         │
-│  Cloud / DevOps      █████████████████░░░   85%         │
-│  Frontend            ████████████████████  100%         │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  STACK                                                    │
-│                                                          │
-│  Ruby   Python   Go   TypeScript   React   AWS   K8s     │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  GITHUB ACTIVITY                                          │
-│                                                          │
-│  ░ ░ ▓ ▓ █ █ ▓ ░ ░ ▓ █ ▓ ▓ █ █ ░ ▓ ▓ ░ ░ █             │
-│  ░ ▓ ▓ █ █ ▓ ░ ░ ▓ █ █ ▓ ░ ░ ▓ █ ▓ ▓ █ ░ ░             │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+### Bruno Queiroz
+
+#### Hi there 🚀
+Senior Software Engineer, Tech Lead & Engineering Leader from Brazil 🇧🇷
+
+15+ years building software, designing architectures, leading teams, and solving complex engineering problems.
+
+Ruby • Python • Go • TypeScript • React • AWS • Kubernetes • PostgreSQL
+
+I build things, break things, learn constantly, and occasionally turn those experiments into open source.
+
+
+For more information about my skills see my [website](https://brunow.dev).
+
+
