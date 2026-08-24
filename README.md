@@ -1,13 +1,13 @@
 ### Bruno Queiroz
 
 #### Hi there 🚀
-I'm a software developer based in Petrópolis, Rio de Janeiro, Brazil, with over 14 years of experience in full-stack development.
-Throughout my career, I’ve worked on a wide range of projects for companies such as McDonald’s, TIM, Michelin, MRV, Sephora, Plugg.to, Estoca, Facily, Personare, Acrux Capital, Celero, Sicredi, VISA, Fornax, Chirotouch and many others.
+Senior Software Engineer, Tech Lead & Engineering Leader from Brazil 🇧🇷
 
-I’ve worked extensively with technologies like Ruby, Python, PHP, Node.js, Go, React, Flutter, and Vue.js, always focusing on building scalable, maintainable, and efficient solutions.
+15+ years building software, designing architectures, leading teams, and solving complex engineering problems.
 
-In addition to development, I also act as a Tech Lead and consultant for several companies — helping teams design architectures, improve processes, and deliver high-quality software.
-I'm always open to new challenges, collaborations, and opportunities to make an impact through technology.
+Ruby • Python • Go • TypeScript • React • AWS • Kubernetes • PostgreSQL
+
+I build things, break things, learn constantly, and occasionally turn those experiments into open source.
 
 
 For more information about my skills see my [website](https://brunow.dev).
