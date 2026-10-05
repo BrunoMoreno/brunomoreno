@@ -14,7 +14,7 @@
 Building software, systems and developer tools.
 
 ```text
-bruno@github
+brunomoreno@github
 ────────────────────────────────────────────────────────
 
 ROLE        Software Engineer / Tech Lead
