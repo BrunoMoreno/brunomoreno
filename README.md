@@ -45,6 +45,9 @@ AI
     LLMs · AI Agents · RAG
     AI-assisted Software Development
 
+────────────────────────────────────────────────────────
+
+Philosophy
 
 
 01  Keep things simple.
